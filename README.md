@@ -1,0 +1,1 @@
+Cypress project which connects to a local MySQL database
